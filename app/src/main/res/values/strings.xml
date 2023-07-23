@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Naluri</string>
+    <string name="page_title">Calculate Any Circumference</string>
+    <string name="label_pi">Pi Value : </string>
+    <string name="label_sun">Sun Circumference : </string>
+    <string name="calculate">Calculate</string>
 </resources>
