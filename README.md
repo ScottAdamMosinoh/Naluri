@@ -12,6 +12,7 @@
 <B>The Concept</B>
 
 Implementing pi value from https://pi.delivery/#introductionindex which bases their calculation on https://cloud.google.com/compute
+
 While calculating circumference with formula of 2PiR
 
 <B>Library Used</B>
@@ -26,9 +27,10 @@ While calculating circumference with formula of 2PiR
 4. Run application
 
 <B> Future improvements </B>
-1. Coroutines -> implement coroutine with the sole purpose of better thread management for api calls
-2. Add in visualiser for objects after calculating circumference
-3. Independent views for each object (viewpager)
+1. Inject Retrofit into VM via KoinInjection
+2. Coroutines -> implement coroutine with the sole purpose of better thread management for api calls
+3. Add in visualiser for objects after calculating circumference
+4. Independent views for each object (viewpager)
 
 Any other suggestions are welcome
 
