@@ -5,8 +5,9 @@
 
 <B>Prerequisites</B>
 
-Android 7 emulator
-Android Studio
+-Android 7 emulator
+
+-Android Studio
 
 <B>The Concept</B>
 Implementing pi value from https://pi.delivery/#introductionindex which bases their calculation on https://cloud.google.com/compute
