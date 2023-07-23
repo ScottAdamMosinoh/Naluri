@@ -10,6 +10,7 @@
 -Android Studio
 
 <B>The Concept</B>
+
 Implementing pi value from https://pi.delivery/#introductionindex which bases their calculation on https://cloud.google.com/compute
 While calculating circumference with formula of 2PiR
 
